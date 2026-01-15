@@ -3,3 +3,7 @@ Video game sales analysis using Python and exploratory data analysis to uncover 
 
 For the code, you can access it here:
 https://colab.research.google.com/drive/1Np-YPfx7jFw22pVvrtKDO7LJkbCLGx4G?usp=sharing
+
+And for the PPT, you can access it here:
+https://drive.google.com/file/d/1Lb8kIOsxUCdDc5l0o26EfrADdvVR23Ve/view?usp=drivesdk
+
